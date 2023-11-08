@@ -1,0 +1,28 @@
+:root{
+    --dark:#000000;
+    --light:#ffffff;
+    --gray:#a39999;
+    --green:#6eff99de;
+    --dark-green:#509f30;
+}
+
+
+*{
+    box-sizing:border-box;
+    margin: 0;
+    }
+
+   header{
+        width: auto;
+        height: 3000px;
+        background-color: var(--dark-green);
+        
+
+    }
+
+    
+
+        
+
+
+
